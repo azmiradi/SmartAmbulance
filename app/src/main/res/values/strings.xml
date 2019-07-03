@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Smart Ambulance</string>
+
+    <string name="SignUp">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="Phone">Phone</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="Required">Required</string>
+    <string name="atLest8">Password must Greater Than 8 character or number</string>
+    <string name="LoginIn">Login In</string>
+    <string name="registration">Create New Account</string>
+    <string name="Logout">Log Out</string>
+    <string name="logout">you want logout from account</string>
+    <string name="sure">Are you sure?</string>
+    <string name="login_fail">Login not Success</string>
+    <string name="key">AIzaSyAYloMOPEfTC4blQ1SQ4ydIPpa69dxxb5g</string>
+    <string name="tryAgian">try again</string>
+    <string name="Request">Request</string>
+    <string name="Request_blood">Request blood</string>
+    <string name="SelectBloodType">SelectBloodType</string>
+    <string name="showBestRout">Show Best Rout</string>
+    <string name="Quntity">Quntity</string>
+    <array name="menuOptions">
+        <item>Request blood</item>
+        <item>Health News</item>
+        <item>Traffic News</item>
+        <item>Profile</item>
+        <item>About</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="Log_out">Log out</string>
+</resources>
